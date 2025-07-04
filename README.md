@@ -37,44 +37,123 @@ Creativity
 
 
 # 1. Average Discount Percentage by Category
-Category	Avg. Discount (%)
+
 HomeImprovement	57.5%
+
 Computers&Accessories	54.0%
+
 Health&PersonalCare	53.0%
+
 Electronics	50.8%
+
 MusicalInstruments	46.0%
 
 # 2. Number of Products Listed Under Each Category
-Category	# Products
+
 Electronics	490
+
 Home&Kitchen	448
+
 Computers&Accessories	375
+
 OfficeProducts	31
+
 HomeImprovement	2
 
 # 3. Total Number of Reviews Per Category
-Category	Total Reviews
+
 Electronics	15,778,848
+
 Computers&Accessories	7,728,689
+
 Home&Kitchen	2,991,069
+
 OfficeProducts	149,675
+
 MusicalInstruments	88,882
 
 # 4. Top 5 Products by Average Rating
-Product Name (shortened)	Rating
+
 REDTECH USB-C to Lightning Cable	5.0
+
 Syncwire Fast Charging Cable	5.0
+
 Amazon Basics Wireless Mouse	5.0
+
 Swiffer Instant Electric Water Heater Faucet	4.8
+
 Oratech Coffee Frother electric	4.8
 
 # 5. Average Actual Price vs Discounted Price by Category
-Category	Avg. Actual ₹	Avg. Discounted ₹
+
 Car&Motorbike	—	2,339.00
+
 Computers&Accessories	—	842.65
+
 Electronics	—	5,965.89
+
 Health&PersonalCare	—	899.00
+
 Home&Kitchen	—	2,330.62
+
+# 6. Which products have the highest number of reviews?
+Top 5 products by number of reviews:
+
+AmazonBasics Flexible Premium HDMI Cable – 426,973 reviews
+
+Amazon Basics High-Speed HDMI Cable, 6 Feet – 426,973 reviews
+
+Amazon Basics High-Speed HDMI Cable (2-Pack) – 426,973 reviews
+
+AmazonBasics Flexible Premium HDMI Cable (duplicate) – 426,972 reviews
+
+boAt Bassheads 100 Wired Earphones – 363,713 reviews
+
+# 7. How many products have a discount of 50% or more?
+✅ 751 products
+
+# 8. What is the distribution of product ratings?
+
+Rating	Count
+3.0	4
+
+3.5	26
+
+3.9	123
+
+4.0	181
+
+4.1	244
+
+4.2	228
+
+4.3	230
+
+4.4	123
+
+4.5	75
+...	...
+(A full detailed list is available if needed.)	
+
+# 9. What is the total potential revenue (actual_price × rating_count) by category?
+Top 5 categories by total potential revenue:
+
+Smartphones – ₹38.5 billion
+
+Smart Televisions – ₹25.4 billion
+
+Smart Watches – ₹13.3 billion
+
+In-Ear Headphones – ₹7.9 billion
+
+USB Cables – ₹3.0 billion
+
+# 10. Number of unique products per price range bucket:
+
+Price Range	Unique Products
+< ₹200	160
+₹200–₹500	341
+> ₹500	850
 
 
 
