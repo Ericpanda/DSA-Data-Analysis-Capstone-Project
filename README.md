@@ -152,8 +152,37 @@ USB Cables – ₹3.0 billion
 
 Price Range	Unique Products
 < ₹200	160
+
 ₹200–₹500	341
+
 > ₹500	850
+
+# 11. Rating vs. Discount Level
+Correlation coefficient: -0.155
+
+This indicates a weak negative relationship—as discounts increase, product ratings tend to slightly decrease, though the relationship isn't strong.
+
+# 12. Products with Fewer Than 1,000 Reviews
+Count: 326 products
+
+A significant portion of the catalog hasn't received much public feedback yet.
+
+# 13. Categories with the Highest Average Discounts
+Top 5 based on average discount percentage:
+
+Home Improvement – 57.5%
+
+Computers & Accessories – 54.0%
+
+Health & Personal Care – 53.0%
+
+Electronics – 50.8%
+
+Musical Instruments – 46.0%
+
+These categories appear to be leveraging discounting heavily as a competitive tactic.
+
+
 
 
 
